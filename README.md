@@ -1,5 +1,5 @@
 # Croissanted
-A python program exploiting Discord's authorization token.
+A Python script exploiting Discord's authorization token.
 
 # DISCLAIMER #
 **Third party clients are not recommended and are against Discord's TOS. Use at your own risk (the program uses the Discord API to send messages and receive basic data, so you may not be banned, but be careful).**
