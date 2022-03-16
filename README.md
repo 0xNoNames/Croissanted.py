@@ -9,6 +9,8 @@ You will need your authorization token to use the application.
 You can get it in the "Network" tab of the development tools of your favourite web browser.
 Simply filter by "Fetch/XHR" and look for "science" or other Discord related API endpoint.
 
-![Token Screenshot](.github/images/token.png)
+<p align="center">
+  <img alt="Token Screenshot" src=".github/images/token.png" />
+</p>
 
 Once you have your token, just run the program, it doesn't need any additional modules other than those installed by default in Python.
