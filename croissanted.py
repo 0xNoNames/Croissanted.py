@@ -322,7 +322,7 @@ class Croissanted():
 
 
 def main():
-    croissant = Croissanted()
+    Croissanted()
 
 
 if __name__ == "__main__":
